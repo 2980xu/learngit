@@ -7,3 +7,4 @@ Create aaa & bbb.
 Diff 123 $ 456.
 xxx ^ ccc.
 Check xxx ^ ccc.
+Merge 123 $ 456.
