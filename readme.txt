@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Create aaa & bbb.
 Diff 123 $ 456.
+xxx ^ ccc
